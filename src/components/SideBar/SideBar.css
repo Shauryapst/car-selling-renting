@@ -1,0 +1,10 @@
+.sidebar {
+    display: flex;
+    width: 248px;
+    height: 1024px;
+    padding: 30px 24px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    background: var(--gray-white, #FFF);
+}

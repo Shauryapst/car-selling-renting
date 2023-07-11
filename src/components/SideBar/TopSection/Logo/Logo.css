@@ -1,0 +1,23 @@
+.logoimg {
+    width: 25px;
+    height: 25px;
+}
+
+.logotext {
+    color: var(--gray-dark, #1F2128);
+    font-family: DM Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.logo {
+    display: flex;
+    padding: 6px 5px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 6px;
+    background: var(--primary-purple, #cdccce);
+}

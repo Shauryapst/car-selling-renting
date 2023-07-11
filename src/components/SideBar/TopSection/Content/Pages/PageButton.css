@@ -1,0 +1,39 @@
+.buttonwrapper {
+    display: flex;
+    width: 174px;
+    padding: 7px 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 6px;
+
+}
+.buttonwrapper:hover{
+    background: gainsboro
+}
+.buttonwrapper:active{
+    background: gainsboro
+}
+
+.buttonicon {
+    width: 20px;
+    height: 20px;
+}
+
+.buttontext {
+    color: #5F6165;
+
+    /* tittle/14 M */
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.buttonlayout {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
