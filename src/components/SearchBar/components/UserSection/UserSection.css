@@ -1,0 +1,11 @@
+.userwrapper {
+    display: flex;
+    align-items: center;
+    gap: 39px;
+
+}
+
+.notficationicon {
+    width: 19.2px;
+    height: 24px;
+}

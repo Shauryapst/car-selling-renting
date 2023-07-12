@@ -1,12 +1,13 @@
 import "./App.css";
+import SearchBar  from './components/SearchBar/SearchBar';
 import SideBar from "./components/SideBar/SideBar";
 
 function App() {
   return (
-    <div className="App flex-1">
+    <div className="App">
       <SideBar/>
-      <div>
-        <h2>Nav bar</h2>
+      <div className="w-screen">
+        <SearchBar/>
         <h2>Pages</h2>
       </div>
     </div>

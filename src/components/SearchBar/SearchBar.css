@@ -1,0 +1,15 @@
+.barwrapper {
+    background-color: white;
+    padding: 15px 31px;
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    overflow: hidden;
+}
+
+.bar {
+    align-items: center;
+    justify-content: space-between;
+}

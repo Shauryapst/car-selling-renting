@@ -1,6 +1,8 @@
 .App {
-  width: 1339px;
-  height: 1024px;
+  display: flex;
+  background: #F5F5F5;
+  height: 100vh;
+  width: 100vw;
 }
 
 .App-logo {
